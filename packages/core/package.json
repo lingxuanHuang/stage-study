@@ -1,6 +1,6 @@
 {
   "name": "@amanda-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "amanda cli dev core",
   "author": "lingxuanHuang <1491536190@qq.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from core\""
   },
   "dependencies": {
-    "@amanda-cli-dev/utils": "^1.0.0"
+    "@amanda-cli-dev/utils": "^1.0.1"
   }
 }
