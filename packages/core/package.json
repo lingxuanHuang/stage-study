@@ -1,0 +1,22 @@
+{
+  "name": "@amanda-cli-dev/core",
+  "version": "1.0.0",
+  "description": "amanda cli dev core",
+  "author": "lingxuanHuang <1491536190@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from core\""
+  },
+  "dependencies": {
+    "@amanda-cli-dev/utils": "^1.0.0"
+  }
+}
