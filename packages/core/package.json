@@ -5,7 +5,7 @@
   "author": "lingxuanHuang <1491536190@qq.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/core.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@amanda-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "b33e6a771bf8a00b38663c2e3fd840204dbe6a43"
 }
