@@ -1,6 +1,6 @@
 {
   "name": "@amanda-cli-dev/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "lingxuanHuang <1491536190@qq.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from utils\""
   },
-  "gitHead": "b33e6a771bf8a00b38663c2e3fd840204dbe6a43"
+  "gitHead": "fd14124fa101f8e7d64c1b31e2bfe7638ebb7e77"
 }
