@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from core\""
   },
   "dependencies": {
-    "@amanda-cli-dev/utils": "^1.0.2"
+    "@amanda-cli-dev/utils": "file:../utils"
   },
   "gitHead": "fd14124fa101f8e7d64c1b31e2bfe7638ebb7e77",
   "publishConfig": {
