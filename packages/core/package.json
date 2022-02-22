@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "bin": {
-    "amanda-cli-dev": "bin/index.js"
+    "cli": "bin/index.js"
   },
   "files": [
     "lib"
